@@ -1,8 +1,8 @@
 {
   "root": true,
   "api": {
-    "projectId": "",
-    "dataset": ""
+    "projectId": "gkqu1zkc",
+    "dataset": "production"
   },
   "project": {
     "name": "Gatsby Demo"
